@@ -1,2 +1,2 @@
 # VJ
-<vjezbanje>
+Ovdje se vjezba RWA
